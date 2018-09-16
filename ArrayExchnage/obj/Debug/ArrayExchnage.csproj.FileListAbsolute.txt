@@ -1,0 +1,18 @@
+E:\Csharp\ArrayExchnage\ArrayExchnage\bin\Debug\ArrayExchnage.exe
+E:\Csharp\ArrayExchnage\ArrayExchnage\bin\Debug\ArrayExchnage.pdb
+E:\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ResolveAssemblyReference.cache
+E:\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.Form1.resources
+E:\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.Properties.Resources.resources
+E:\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.csproj.GenerateResource.Cache
+E:\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.exe
+E:\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.pdb
+D:\Old E-Disk\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.exe
+D:\Old E-Disk\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.pdb
+D:\Old E-Disk\C#\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.exe
+D:\Old E-Disk\C#\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.pdb
+D:\Old E-Disk\C#\Csharp\ArrayExchnage\ArrayExchnage\bin\Debug\ArrayExchnage.exe
+D:\Old E-Disk\C#\Csharp\ArrayExchnage\ArrayExchnage\bin\Debug\ArrayExchnage.pdb
+D:\Old E-Disk\C#\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ResolveAssemblyReference.cache
+D:\Old E-Disk\C#\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.Form1.resources
+D:\Old E-Disk\C#\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.Properties.Resources.resources
+D:\Old E-Disk\C#\Csharp\ArrayExchnage\ArrayExchnage\obj\Debug\ArrayExchnage.csproj.GenerateResource.Cache
