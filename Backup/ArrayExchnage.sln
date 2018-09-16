@@ -1,8 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2047
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayExchnage", "ArrayExchnage\ArrayExchnage.csproj", "{A696E7CA-17A1-4CE4-8ABC-5F401870D456}"
 EndProject
 Global
@@ -18,8 +16,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2A8199E4-3AC9-460F-AEEF-5C5D31932B47}
 	EndGlobalSection
 EndGlobal
